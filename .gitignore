@@ -3,3 +3,4 @@ __pycache__
 *.h5
 .DS_Store
 tmp/.ipynb_checkpoints/
+__pycache__/
